@@ -1,7 +1,7 @@
 name: flutter_feature_remote_logging
 description: Flutter Feature Remote Logging
 version: 0.0.1
-homepage:
+homepage: https://github.com/fadlurahmanfdev/flutter_feature_remote_logging
 
 environment:
   sdk: '>=3.0.6 <4.0.0'

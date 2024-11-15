@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Support platform google cloud logging
+* Support platform betterstack logging
